@@ -1,0 +1,146 @@
+{
+  "Berlin": {
+    "durchschnittQmPreis": 5800,
+    "durchschnittMieteQm": 12.50,
+    "durchschnittNebenkostenQm": 3.20,
+    "preisentwicklung": 3.5,
+    "mietentwicklung": 4.2,
+    "leerstandsquote": 1.8,
+    "bevölkerungswachstum": 0.8
+  },
+  "Hamburg": {
+    "durchschnittQmPreis": 6200,
+    "durchschnittMieteQm": 17.20,
+    "durchschnittNebenkostenQm": 3.40,
+    "preisentwicklung": 3.8,
+    "mietentwicklung": 3.9,
+    "leerstandsquote": 1.5,
+    "bevölkerungswachstum": 0.6
+  },
+  "München": {
+    "durchschnittQmPreis": 9800,
+    "durchschnittMieteQm": 23.50,
+    "durchschnittNebenkostenQm": 3.80,
+    "preisentwicklung": 4.2,
+    "mietentwicklung": 4.5,
+    "leerstandsquote": 0.9,
+    "bevölkerungswachstum": 1.1
+  },
+  "Köln": {
+    "durchschnittQmPreis": 5400,
+    "durchschnittMieteQm": 15.80,
+    "durchschnittNebenkostenQm": 3.10,
+    "preisentwicklung": 3.6,
+    "mietentwicklung": 3.8,
+    "leerstandsquote": 1.7,
+    "bevölkerungswachstum": 0.7
+  },
+  "Frankfurt": {
+    "durchschnittQmPreis": 7200,
+    "durchschnittMieteQm": 19.50,
+    "durchschnittNebenkostenQm": 3.60,
+    "preisentwicklung": 4.0,
+    "mietentwicklung": 4.3,
+    "leerstandsquote": 1.2,
+    "bevölkerungswachstum": 0.9
+  },
+  "Stuttgart": {
+    "durchschnittQmPreis": 6800,
+    "durchschnittMieteQm": 18.20,
+    "durchschnittNebenkostenQm": 3.50,
+    "preisentwicklung": 3.9,
+    "mietentwicklung": 4.1,
+    "leerstandsquote": 1.3,
+    "bevölkerungswachstum": 0.5
+  },
+  "Düsseldorf": {
+    "durchschnittQmPreis": 5900,
+    "durchschnittMieteQm": 16.80,
+    "durchschnittNebenkostenQm": 3.30,
+    "preisentwicklung": 3.7,
+    "mietentwicklung": 3.9,
+    "leerstandsquote": 1.6,
+    "bevölkerungswachstum": 0.6
+  },
+  "Leipzig": {
+    "durchschnittQmPreis": 3800,
+    "durchschnittMieteQm": 10.20,
+    "durchschnittNebenkostenQm": 2.80,
+    "preisentwicklung": 4.5,
+    "mietentwicklung": 4.8,
+    "leerstandsquote": 2.5,
+    "bevölkerungswachstum": 1.2
+  },
+  "Dresden": {
+    "durchschnittQmPreis": 3600,
+    "durchschnittMieteQm": 9.80,
+    "durchschnittNebenkostenQm": 2.70,
+    "preisentwicklung": 4.3,
+    "mietentwicklung": 4.5,
+    "leerstandsquote": 2.7,
+    "bevölkerungswachstum": 0.9
+  },
+  "Hannover": {
+    "durchschnittQmPreis": 4200,
+    "durchschnittMieteQm": 12.50,
+    "durchschnittNebenkostenQm": 3.00,
+    "preisentwicklung": 3.5,
+    "mietentwicklung": 3.7,
+    "leerstandsquote": 2.0,
+    "bevölkerungswachstum": 0.5
+  },
+  "Nürnberg": {
+    "durchschnittQmPreis": 4800,
+    "durchschnittMieteQm": 13.80,
+    "durchschnittNebenkostenQm": 3.10,
+    "preisentwicklung": 3.8,
+    "mietentwicklung": 4.0,
+    "leerstandsquote": 1.8,
+    "bevölkerungswachstum": 0.7
+  },
+  "Bremen": {
+    "durchschnittQmPreis": 3400,
+    "durchschnittMieteQm": 10.50,
+    "durchschnittNebenkostenQm": 2.90,
+    "preisentwicklung": 3.2,
+    "mietentwicklung": 3.4,
+    "leerstandsquote": 2.8,
+    "bevölkerungswachstum": 0.3
+  },
+  "Essen": {
+    "durchschnittQmPreis": 3200,
+    "durchschnittMieteQm": 9.20,
+    "durchschnittNebenkostenQm": 2.80,
+    "preisentwicklung": 2.9,
+    "mietentwicklung": 3.1,
+    "leerstandsquote": 3.0,
+    "bevölkerungswachstum": 0.2
+  },
+  "Dortmund": {
+    "durchschnittQmPreis": 3100,
+    "durchschnittMieteQm": 9.00,
+    "durchschnittNebenkostenQm": 2.70,
+    "preisentwicklung": 3.0,
+    "mietentwicklung": 3.2,
+    "leerstandsquote": 2.9,
+    "bevölkerungswachstum": 0.3
+  },
+  "Bonn": {
+    "durchschnittQmPreis": 4600,
+    "durchschnittMieteQm": 13.20,
+    "durchschnittNebenkostenQm": 3.00,
+    "preisentwicklung": 3.6,
+    "mietentwicklung": 3.8,
+    "leerstandsquote": 1.9,
+    "bevölkerungswachstum": 0.6
+  },
+  "Stralsund": {
+    "durchschnittQmPreis": 2800,
+    "durchschnittMieteQm": 9.87,
+    "durchschnittNebenkostenQm": 2.60,
+    "preisentwicklung": 3.2,
+    "mietentwicklung": 3.0,
+    "leerstandsquote": 3.5,
+    "bevölkerungswachstum": 0.1
+  }
+}
