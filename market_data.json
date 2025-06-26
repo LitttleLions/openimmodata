@@ -64,7 +64,7 @@
   },
   "Leipzig": {
     "durchschnittQmPreis": 3800,
-    "durchschnittMieteQm": 11.70,
+    "durchschnittMieteQm": 12.20,
     "durchschnittNebenkostenQm": 2.80,
     "preisentwicklung": 4.5,
     "mietentwicklung": 4.8,
@@ -128,6 +128,15 @@
   "Bonn": {
     "durchschnittQmPreis": 4600,
     "durchschnittMieteQm": 13.20,
+    "durchschnittNebenkostenQm": 3.00,
+    "preisentwicklung": 3.6,
+    "mietentwicklung": 3.8,
+    "leerstandsquote": 1.9,
+    "bevölkerungswachstum": 0.6
+  },
+  "Neuruppin": {
+    "durchschnittQmPreis": 2548,
+    "durchschnittMieteQm": 11.27,
     "durchschnittNebenkostenQm": 3.00,
     "preisentwicklung": 3.6,
     "mietentwicklung": 3.8,
