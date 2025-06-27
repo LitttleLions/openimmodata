@@ -8,6 +8,15 @@
     "leerstandsquote": 1.8,
     "bevölkerungswachstum": 0.8
   },
+  "Ostprignitz": {
+    "durchschnittQmPreis": 2548,
+    "durchschnittMieteQm": 11.27,
+    "durchschnittNebenkostenQm": 3.00,
+    "preisentwicklung": 3.6,
+    "mietentwicklung": 3.8,
+    "leerstandsquote": 1.9,
+    "bevölkerungswachstum": 0.6
+  },
   "Hamburg": {
     "durchschnittQmPreis": 6200,
     "durchschnittMieteQm": 17.20,
@@ -143,15 +152,7 @@
     "leerstandsquote": 1.9,
     "bevölkerungswachstum": 0.6
   },
-  "Ostprignitz": {
-    "durchschnittQmPreis": 2548,
-    "durchschnittMieteQm": 11.27,
-    "durchschnittNebenkostenQm": 3.00,
-    "preisentwicklung": 3.6,
-    "mietentwicklung": 3.8,
-    "leerstandsquote": 1.9,
-    "bevölkerungswachstum": 0.6
-  },  "Stralsund": {
+  "Stralsund": {
     "durchschnittQmPreis": 2800,
     "durchschnittMieteQm": 9.87,
     "durchschnittNebenkostenQm": 2.60,
